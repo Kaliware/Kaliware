@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Lucas Lourenço!
+### Oiii eu sou o Lucas Lourenço, Desenvolvedor Fullstack em tecnologia da Informação!
 
 <div align="center">
   <a href="https://github.com/Kaliware">
