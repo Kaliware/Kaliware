@@ -1,4 +1,4 @@
-### Olá!! eu sou o Lucas Lourenço! 😊
+### Hi!! I'm Lucas Lourenço! 😊
 
 <div align="center">
   <a href="https://github.com/Kaliware">
