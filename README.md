@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 <div align="center">
   <a href="https://github.com/Kaliware">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kaliware&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaliware&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Kaliware&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaliware&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
 </div>
 
@@ -15,14 +15,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ### 🚀 Skills & Tools
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="java Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Spring Boot Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="PostgreSQL Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bootstrap Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" >
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,javascript,typescript,react,bootstrap" />
 </div>
 
 ---
