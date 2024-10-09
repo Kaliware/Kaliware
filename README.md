@@ -49,14 +49,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ---
 
-### 🐍 Fun Fact
-
-<div align="center">
-  <img src="https://github.com/Kaliware/Kaliware/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</div>
-
----
-
 ### 📊 GitHub Activity
 
 <div align="center">
